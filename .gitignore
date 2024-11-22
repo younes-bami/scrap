@@ -1,0 +1,5 @@
+ML/preprocessed_data
+tensorFlow/processed_tensorflow_data
+tensorFlow/processed_tensorflow_data
+*.json
+*.log
